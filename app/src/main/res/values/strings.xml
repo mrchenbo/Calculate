@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculate</string>
+    <string name="except_rate">预期年化率(%)</string>
+    <string name="buying_rate">买入费率(%)</string>
+    <string name="sell_rate">卖出费率(%)</string>
+    <string name="period">投资周期(年)</string>
+    <string name="progress">计算</string>
+    <string name="sell_price">卖出价格</string>
+</resources>
