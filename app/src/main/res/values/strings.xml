@@ -6,4 +6,10 @@
     <string name="period">投资周期(年)</string>
     <string name="progress">计算</string>
     <string name="sell_price">卖出价格</string>
+
+    <string name="save_except_rate">save_except_rate</string>
+    <string name="save_buying_rate">save_buying_rate</string>
+    <string name="save_sell_rate">save_sell_rate</string>
+    <string name="save_period">save_period</string>
+    <string name="save_sell_price">save_sell_price</string>
 </resources>
